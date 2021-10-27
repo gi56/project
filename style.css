@@ -1,0 +1,26 @@
+.links{
+    float: left;
+    color: cornflowerblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: fantasy;
+    font-size: 20px;
+   
+}
+.container{
+    z-index: 90;
+    text-align: center;
+}
+.menu1{
+     z-index: 100;
+}
+.home{
+    margin-top: 45px;
+    margin-bottom: 25px;
+}
+.pic2{
+    width: 200px;
+    height: 200px;
+}
